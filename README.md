@@ -9,8 +9,8 @@ Escape the dark and creepy Hospital... Toggle the controls in the settings to cu
 * **Platforms**: HTML5
 * **Genre**: Platformer
 * **Tags**: Simulation, Horror, Hospital, Creepy, Lighting, SFX
-* **Availability**: [itch.io page](https://rk2546.itch.io/trihop)
-* **Game Details**: [Google Presentation](https://docs.google.com/presentation/d/1WMJ2fBMLLSEUlvfn7wtftfHNy4Txf1Y1C9tMGnKnXhI/edit?usp=sharing)
+* **Availability**: [itch.io page](https://rk2546.itch.io/horror-hospital)
+* **Game Details**: [Google Presentation](https://docs.google.com/presentation/d/1_aP8N-OHcBUA1zDnte88vT_s9G8XfYJRcgiwucFof4g/edit?usp=sharing)
 
 ## Game authors:
 
